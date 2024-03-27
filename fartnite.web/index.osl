@@ -16,7 +16,7 @@ velocity -= 5
 )
 
 goto 0 position
-image "https://raw.githubusercontent.com/RattusDong/owtp/main/fartnite/rat_mouse_PNG23553.png" 300 200
+image "https://raw.githubusercontent.com/RattusDong/owtp/main/fartnite.web/rat_mouse_PNG23553.png" 300 200
 
 
 if position <= 0 (
